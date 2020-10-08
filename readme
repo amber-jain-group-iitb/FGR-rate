@@ -1,0 +1,7 @@
+Calcualtes FGR rate after inverting the spectral density.
+This code calculates FGR and Marcus rate with varition with k_LT (relaxation rate). All other parameters are specified in fgr.inp. The code is parallelized using openmp.
+Mkl library (Blas/Lapack) and openmp are needed. Compilation instructions are there in makefile.
+
+To run, issue 
+make 
+./aout

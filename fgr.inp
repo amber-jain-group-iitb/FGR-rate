@@ -1,0 +1,13 @@
+1836.d0                     !! mass (atomic units)
+150.d0                      !! V_coup (cm-1)
+900.d0                      !! V_exothermicity (cm-1)
+1200.d0                     !! omg_1 (cm-1)
+12000.d0                    !! V_reorg_1 (cm-1)
+400.d0                      !! omg_2 (cm-1)
+400.d0                      !! gamma (cm-1)
+1.d12                       !! VER_rate (s-1)
+1000                         !! nclass
+1500.d0                     !! wmax (cm-1)
+200000                      !! n_t
+100.d-15                     !! tmax (s)
+x
