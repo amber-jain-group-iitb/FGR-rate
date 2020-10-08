@@ -5,3 +5,5 @@ Mkl library (Blas/Lapack) and openmp are needed. Compilation instructions are th
 To run, issue 
 make 
 ./aout
+
+Contact me at Amber Jain, amberj@chem.iitb.ac.in
